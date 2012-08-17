@@ -4,4 +4,7 @@ SCEI
 Trabalho Academico
 
 
-Vanderlei do Amaral
+Vanderlei do Amara
+
+
+amara:l
